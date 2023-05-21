@@ -1,0 +1,13 @@
+.form-field{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    height: 30px;
+}
+.form-field > textarea{
+    border-radius: 50px;
+}
+.form-field > input{
+    border-radius: 50px;
+    height: 100%;
+}
